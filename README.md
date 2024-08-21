@@ -8,3 +8,5 @@ Several functions are made available that perform various programmer tasks.
   <li>Modify a Text File</li>
   <li>Write A Text file</li>
 </ul>
+
+Having working examplesl of this level of coding allows the programmer the ability to structure project development.
