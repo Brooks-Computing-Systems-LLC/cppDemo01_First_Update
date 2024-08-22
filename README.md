@@ -10,4 +10,4 @@ Several functions are made available that perform various programmer tasks.
   <li>Convert String Array To String</li>
 </ul>
 
-Having working examplesl of this level of coding allows the programmer the ability to structure project development.
+Having working examples of this level of coding allows the programmer the ability to structure project development.
